@@ -1,0 +1,1 @@
+model <- readRDS("model.rds")
